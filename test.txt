@@ -1,0 +1,10 @@
+1 100 aaa
+2 200 bbb
+3 300 ccc
+4 400 ddd
+5 500 eee
+6 600 fff
+7 700 ggg
+8 800 hhh
+9 900 iii
+10 1000 jjj
